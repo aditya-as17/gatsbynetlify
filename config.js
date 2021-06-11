@@ -30,7 +30,7 @@ module.exports = {
   ],
   author: {
     name: 'Aditya Sharma',
-    photo: '/static/photo.jpg',
+    photo: '/photo.jpg',
     bio: 'Here to add some short and sweet bio',
     contacts: {
       email: 'sharmaaditya1997@gmail.com',
