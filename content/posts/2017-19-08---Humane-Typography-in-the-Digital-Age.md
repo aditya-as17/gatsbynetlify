@@ -1,5 +1,5 @@
 ---
-title: Humane Typography in the Digital Age
+title: Website is under development. Will be live soon
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
