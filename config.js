@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Aditya Sharma',
-  subtitle: 'Personal website, blog and a playground',
+  subtitle: 'Personal website',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Essays',
       path: '/'
     },
     {
@@ -20,18 +20,18 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    },
-    {
       label: 'Resources',
       path: '/pages/rsrc'
+    },
+    {
+      label: 'Contact me',
+      path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Aditya Sharma',
     photo: '/photo.jpg',
-    bio: 'Here to add some short and sweet bio',
+    bio: 'Playground and repository for my ideas and initiatives about business and programming',
     contacts: {
       email: 'sharmaaditya1997@gmail.com',
       facebook: '',
