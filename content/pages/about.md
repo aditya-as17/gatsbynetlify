@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---
-Can this happen if I write something in here and my build will get automatically updated. If this is the case then wow.
+I am Aditya Sharma. Economist by education, programmer by interest. 
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 
