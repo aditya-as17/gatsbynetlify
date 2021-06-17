@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Personal website',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: 'G-EJK1Y099VG',
   useKatex: false,
   menu: [
