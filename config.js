@@ -33,11 +33,11 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Playground and repository for my ideas and initiatives about business and programming. You can still access my old website till September 1st. - https://aditya-as17.github.io/site/',
     contacts: {
-      email: 'aditya97.substack.com',
+      email: 'sharmaaditya1997@gmail.com',
       facebook: '',
       telegram: '',
       twitter: 'Aditya_as97',
-      github: 'aditya-as17',
+      github: '',
       rss: '',
       vkontakte: '',
       linkedin: 'aditya97as',
