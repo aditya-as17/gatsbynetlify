@@ -1,6 +1,6 @@
 ---
 title: Why stock picking is a waste of time
-date: "2019-01-09"
+date: "2016-01-09"
 template: "post"
 draft: false
 slug: "waste-stockpick"
