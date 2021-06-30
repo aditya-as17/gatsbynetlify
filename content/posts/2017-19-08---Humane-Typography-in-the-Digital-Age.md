@@ -13,6 +13,9 @@ description: "An Essay on Typography by Eric Gill takes the reader back to the y
 socialImage: "/media/42-line-bible.jpg"
 ---
 
+[Here is you can find my first drafts of the upcoming essays](https://drive.google.com/drive/folders/11KrZq1yzPENU1K2tJ1xilVlX2YOicYCg?usp=sharing). **You can visit old website too where you can find what is there in the pipeline.** 
+**Github is to know the roadmap of the current website.**
+
 - [The first transition](#the-first-transition)
 - [The digital age](#the-digital-age)
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
