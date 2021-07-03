@@ -14,7 +14,9 @@ socialImage: "/media/42-line-bible.jpg"
 ---
 
 [Here is you can find my first drafts of the upcoming essays](https://drive.google.com/drive/folders/11KrZq1yzPENU1K2tJ1xilVlX2YOicYCg?usp=sharing). **You can visit old website too where you can find what is there in the pipeline.** 
-**Github is to know the roadmap of the current website.**
+1. [Github](https://github.com/aditya-as17/gatsbynetlify) is to know the roadmap of the current website.
+2. My job offers -> [here](https://drive.google.com/drive/folders/17Ip20A6XoFjCM59tZAVwk5_p_LLU-Y0c?usp=sharing)
+3. My certificates -> [here](https://drive.google.com/drive/folders/1vbPXJfkXfV4q_yeBSfowuMJKG5nGuhTz?usp=sharing)
 
 - [The first transition](#the-first-transition)
 - [The digital age](#the-digital-age)
