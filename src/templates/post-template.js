@@ -18,6 +18,10 @@ const PostTemplate = ({ data }: Props) => {
   const { title: postTitle, description: postDescription = '', socialImage } = frontmatter;
   const metaDescription = postDescription || siteSubtitle;
   const socialImageUrl = socialImage?.publicURL;
+  const pinned = data.allMdx.nodes.filter(post => post.frontmatter.pin === true);
+  const allPosts = pinned.length
+    ? [pinned[0], ...data.allMdx.nodes.filter(post => !post.frontmatter.pin)]
+    : data.allMdx.nodes;
 
   return (
     <Layout title={`${postTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImageUrl} >
@@ -40,7 +44,8 @@ export const query = graphql`
         description
         tags
         title
-        socialImage {
+        socialImage
+        pin {
           publicURL
         }
       }
