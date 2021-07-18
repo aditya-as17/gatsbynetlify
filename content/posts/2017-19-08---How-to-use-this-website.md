@@ -11,6 +11,7 @@ tags:
   - "Web Development"
 description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
 socialImage: "/media/42-line-bible.jpg"
+pin: true
 ---
 
 [Here is you can find my first drafts of the upcoming essays](https://drive.google.com/drive/folders/11KrZq1yzPENU1K2tJ1xilVlX2YOicYCg?usp=sharing). **You can visit old website too where you can find what is there in the pipeline.** 
