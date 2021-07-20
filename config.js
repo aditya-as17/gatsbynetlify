@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'How to use this site'
+      label: 'How to use this site',
       path: '/pages/sitemap'
     },
     {
