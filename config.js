@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: 'Aditya Sharma',
     photo: '/photo.jpg',
-    bio: 'Playground and repository for my ideas and initiatives about business and programming. You can still access my old website till September 1st. - https://aditya-as17.github.io/site/',
+    bio: 'Playground and repository for my ideas and initiatives about business and programming.'
     contacts: {
       email: 'sharmaaditya1997@gmail.com',
       facebook: '',
