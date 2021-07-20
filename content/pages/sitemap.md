@@ -1,4 +1,4 @@
-# How to use this site
+# Sitemap
 
 ## General Layout
 What all to find and where. And a list of tags to search through the essays and contents
