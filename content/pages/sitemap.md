@@ -1,4 +1,9 @@
-# Sitemap
+---
+title: "sitemap"
+template: "page"
+socialImage: "/media/image-2.jpg"
+---
+# How to use this site
 
 ## General Layout
 What all to find and where. And a list of tags to search through the essays and contents
