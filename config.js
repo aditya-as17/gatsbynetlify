@@ -12,7 +12,11 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'About me',
+      label: 'How to use this site'
+      path: '/pages/sitemap'
+    },
+    {
+      label: 'About',
       path: '/pages/about'
     },
     {
@@ -24,7 +28,7 @@ module.exports = {
       path: '/pages/rsrc'
     },
     {
-      label: 'Contact me',
+      label: 'Contact',
       path: '/pages/contacts'
     }
   ],
