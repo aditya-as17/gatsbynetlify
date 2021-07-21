@@ -9,7 +9,6 @@ tags:
   - "Handwriting"
   - "Learning to write"
 description: "In this essay, I examined what cryptocurrency, such as Bitcoin, Ethereum actually is and why it caught so much attention, what the future holds and can it replace the traditional currency in the future."
-socialImage: "/media/image-2.jpg"
 ---
 
 Crypto market has been hot with media coverage for quite some time. With everyone talking about it, giving their verdicts, predicting the future, I too joined the bandwagon of analysis minus the noise.
