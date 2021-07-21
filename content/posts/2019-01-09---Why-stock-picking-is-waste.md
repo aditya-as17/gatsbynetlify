@@ -9,7 +9,6 @@ tags:
   - "finance"
   - "Public policy"
 description: "People worry so much about picking the right stock but it is useless."
-socialImage: "/media/image-2.jpg"
 ---
 Put simply, stock-picking means investing in the stocks you think will outperform the market. It’s a strategy used by both DIY investors and those in fund management. Remember, though, that fund managers are supported by a small army of analysts.
 
