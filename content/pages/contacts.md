@@ -4,10 +4,20 @@ template: "page"
 socialImage: "/media/image-4.jpg" 
 ---
 <!-- list all your profiles and about newsletter in the contact me page. No need to include images and forms. Then target next github readme.md profile. -->
-Here is my email, linked in twitter. What is the best way to contact me and why you should.
+
+Here should be a **list of all your profiles with a brief information on what is there**. Even link to your goodreads account as well. Because on good reads you have to write what was book about and how does it help. Nothing fancy but a review nonentheless. 
+
+have to mention about those three icons also along with github medium newsletter etc.
+
+1. Newsletter
+2. Linked in
+3. twitter
+4. email
+5. medium
+6. goodreads
+7. github
 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)
 
 
 
