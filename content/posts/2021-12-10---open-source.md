@@ -1,16 +1,16 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
+title: "A non-engineer's advocacy for open source"
+date: "2021-12-10"
 template: "post"
 draft: false
-slug: "a-brief-history-of-typography"
+slug: "non-engineer-open-source-advocacy"
 category: "Design Inspiration"
 tags:
   - "Linotype"
   - "Monotype"
   - "History of typography"
   - "Helvetica"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
+description: "Software industry runs on open source. In fact OS is the reason it has flourished so well. So, can it be implemented in other industries as well or not. This essay attempts to make a case for its adoption in other sectors."
 socialImage: "/media/image-0.jpg"
 ---
 
