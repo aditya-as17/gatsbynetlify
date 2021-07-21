@@ -1,21 +1,113 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: How Global Financial Crisis changed the world
+date: "2021-03-20"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
+slug: "GFC"
 category: "Design Inspiration"
 tags:
   - "Handwriting"
   - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+description: "This essay traces the development of the Global Financial Crisis of 2008, repurcussions it had and the after effects of the GFC"
 socialImage: "/media/image-2.jpg"
 ---
+<!--image is deleted if it is causing the problem, we would know the cause, thus I am not touching socialImage. -->
+When 2008 meltdown happened, right from the Queen of England to govt heads, criticized macroeconomists as they failed to predict the meltdown. It is thought to be their job to keep the economy at large stable and warn about the disasters so the govt can have adequate systems in place to prevent another 1929 depression from happening. 
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+They were unclear why they are being blamed as the ’08 Global Financial crisis happened due to shenanigans of investment bankers and credit rating agencies. Bankers invented Collateralized Debt Obligations, credit rating agencies cheated while grading the CDOs. And when the bubble burst, it spread to other sectors across US, Europe and rest of the world due to their exposure to US financial markets. Federal Reserve was literally sleeping throughout all this and when this sub-prime mortgage crisis snowballed into a depression, fault of bankers was offloaded to economists. 
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+Something which is a clear case of human greed, regulatory laxity, why it is studied in economics as if some wrong models have to be corrected. Or were they right in blaming macroeconomists as for long banks and financial institutions have not been given much importance but only real variables like output, employment, technology. So the spreading of sub-prime crisis to other sectors of economy could not have been predicted due to incomplete existing models, making economists guilty as charged.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+This essay traces the origin, causes, effects, explanation of the GFC, why economists were not able to detect it, what were its macroeconomic policy implications, changes after GFC along with measures in place to mitigate future possibilities of risks similar to it.
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+## Causes and origin of GFC
+The roots of sub-prime lending lies in the dot-com crash of 2000s. After the crash, no one wanted to even hear about tech companies for they had lost over 1.7 trillion dollars5 of investors. Then came 9/11, Enron accounting fraud scandal, World-com accounting scandal making stock market a gloomy place. Investors found decent returns in real estate. US Govt encouragement of home ownership made them bullish over housing sector. After 9/11 there was excess liquidity in the system by the operations of Fed to stimulate the economy. Lenders went on a lending spree on account of them being full with cash. Investment banks, Hedge funds jumped to cash in on this opportunity because nothing much was happening in the stock market.
+
+When credit worthy customers were not enough, they started taking risks by lending to customers with poor credit worthiness because the banks were overflowing with cash. Banks took on great risks. They started approving NINJA6 loans which formed sub-prime mortgages. These mortgages were consolidated in a package of marketable securities or MBS. Excess consumer demand drove the housing bubble to dangerous levels by the summer of ’05 and when the bubble burst, US economy came to a standstill with tremors being felt worldwide especially Europe due to their exposure to American banks.
+
+### Main Culprits and Responsible parties
+1. **Banks** – They are accused as the biggest culprits as they issued loans to people without credit worthiness. Reasons were – high liquidity in the market lowered interest rates so to cash more profit they took high risk. Also, the economy was healthy, people were paying their mortgages and interest rates were low so it did not seem that big a risk.
+2. **Homebuyers** – They took multiple mortgages, bought houses they could barely afford, loan to pay off previous loan, paying off only interest over the loan so when things went awry, it ate up all their savings and bankrupted them.
+3. **Fannie May (FNMA) and Freddie Mac (FHLMC)** – These were the semi-government agencies made to have more capital available for investment. They purchased many subprime loans in the form of MBS and since they were backed by Govt, it sent the wrong signal that US federal Govt has guarantee of these loans which drove the demand of securitized subprime loans even higher.
+4. **Investment Banks** – They sold up the mortgage in the secondary market instead of holding up to it, freeing up more capital to be lent thus lenders could approve more risky loans.
+5. **Rating Agencies** – They acted in bad faith by rating junk category CDOs as AAA or AA. It has been pointed out they risked losing business if not rated favourably as creator of securities would have walked to other agency. Thus, not possible for them to give an unbiased assessment due to conflict of interest. Classic Prisoner’s dilemma.
+6. **Hedge Funds** – This scale of the bubble could not have been possible without the involvement of hedge funds. They purchased subprime loans on credit and hedged their position using Credit Default Swaps **(1)**. Since hedge funds can leverage in high proportion to their capital, it further inflated the bubble.
+
+
+## Effect of sub-prime mortgage crisis
+### On US
+When the crisis unfolded, lenders tightened their grip on credit, high foreclosure instances forced homeowners to get evicted. People had tough time making ends meet as all their savings evaporated in this mess. More than one-third increase in consumption from 2000 - 2007 was because of US consumers. Several businesses shut shops. Household wealth decreased by $14.4 T by end of first quarter of 2009. Lehman Brothers filed for bankruptcy in September 2008. Merrill Lynch was merged with Bank of America and AIG was bailed out by the govt for $180 Billion and US govt assumed control of it. U.S. unemployment rate peaked at 10.0% in October 2009, the highest rate since 1983 and roughly twice the pre-crisis rate. The average hours per work week declined to 33, the lowest level since the government began collecting the data in 1964.
+
+### On Europe
+Eurozone already had problems which got accentuated by the recession in US. The root of the recession is the Balance of Payment crisis where foreign capital infusion was stopped. In that case, generally a country would devalue its currency. But it was not possible in European Central bank due to conflicting interests of member nations. Thus, the already grim situation of southern states viz. Spain, Greece, Cyprus, Portugal etc worsened. Iceland was the worst affected nation. Icelandic banks were almost 10 times the GDP of Iceland thus could never be bailed out. 97% of the banking sector collapsed in a matter of three days. 80% of the stock market was wiped out overnight. Shareholders were badly hurt. About every other business in Iceland became technically bankrupt.
+
+### On India and rest of the world
+US consumers accounted for more than 1/3rd increase in global consumption between 2000 and 2007. So many developing nations including India were dependent on US consumption. When their consumption dropped, other nation’s economy esp African and island nations, started faltering.
+
+The current problems that we see in Indian economy like the Twin Balance Sheet **(2)** problem had its genesis in GFC. 2000-07 was the golden period for Indian exports. India’s largest export destination was US where export increased from $42 Billionto $145 Billion(total 13% trade volume). Since corporates were making profits so banks were on a lending spree. No one thought anything could go wrong. Our GDP growth was reaching 7-8% a year. Banks did not want to miss the train to profit so in lending they threw caution to the wind. Then came GFC and our exports came to a stand-still.
+
+Question may arise, then why we registered 7.9 % and 8.5% GDP growth in the years 2009-10 and 2010-11 if our businesses were badly hurt by GFC.
+
+According to Arvind Subramanian and Josh Felman (2019), despite Investment being low and Net exports hurt, it was consumption and Govt expenditure that propped up the demand and sustained the growth.
+
+_GDP = Consumption + Govtexp + Investment + Net ExportGDP = Consumption + Govtexp + Investment + Net Export﻿_
+
+But the problem of NPA still remained where it was. Banks went on lending more in a bid to ramp up the business and recover their loan. The problem was out in the public only when RBI forced the banks to start declaring its NPA from 2015 onwards.
+
+So, this is how GFC affected India. China too, was hit badly as its exports plunged. However their massive investment in infrastructure taking a loan of $ 580 billion made their GDP grow over 9%.
+
+## Reasons for non-detection by Economists
+This is half-truth at best that Economists were unable to predict the crisis. In fact, due to their efforts, 1929 like situation were averted. Raghuram Rajan ,the ex-RBI governor, had predicted the crisis in 2005. Robert Shiller, Peter Schiff, Steve Keen, Jens Kejar Sørenson etc. among others are credited for predicting the crisis.
+
+Options trader Nassim Nicholas Taleb, author of the book ‘The Black Swan’ spent years warning against the breakdown of the banking system in particular and the economy in general owing to their use of and reliance on bad risk models and reliance on forecasting.
+
+So if they knew about it, why there was no consensus among the economists so that the policy makers could have taken concrete actions to protect it.
+
+In macroeconomic models, be it Circular flow of Income or IS-LM, banks and financial institutions are just a part of the model that mobilize savings of individuals to firms and work as a vehicle for the central bank to apply monetary policies. They do not have independent position inside the model to make system unstable on its own. The past years of research and experience backed this thing.
+
+But, unlike the depression of 1929 where banks just showed the effects, here in 2008, they were very much the cause. They encouraged excessive borrowing among potential home owners thus exposing themselves to high risk of default. They created risky products like CDO which later had a domino effect on the whole economy and had amassed huge positions in Mortgage- backed securities and Credit Default swaps. It became the cause of bankruptcy for Lehman Brothers, Merrill Lynch and AIG.
+
+In the paper ‘The Financial Crisis and the Systemic Failure of Academic Economics’ aka Dahlem Report, eight European and American economists argued that there has always been a disconnect between mathematical models of economics and real world situation. Models assume that the markets and economies are inherently stable and market participants, all behave rationally at all times which clearly was absent here. Else people would not have taken the mortgages they could not afford, bankers would not have issued NINJA loans, investment banks and hedge funds would never have hold huge positions in the housing market instruments because they always diversify to protect the capital.
+
+The authors of the ‘Dahlem Report’ argue that even if an individual behaves rationally, there is no guarantee that a large group of people will do that too. This is where the theories of psychology and sociology comes into play which, if incorporated in the economic models will make them more connected to real world.
+
+## Disconnect between Finance and Economics
+There has been a disconnect of finance sector with macroeconomics thus in models it only plays a supporting role. Standard economics says that given people have enough money to spend, when there is a fall in price, demand increases and markets self-equilibrate. But, in the financial markets, when there is a price fall, investors sell. And this frenzy is further fed by momentum traders, portfolio managers with fixed goals (like pension fund managers). These processes normalize after some time but when collateral is low and lenders call for more margin in anticipation of fat profits, make the whole system very vulnerable.
+
+All this go against the fundamental principle of economics of things being at equilibrium. Apart from that, financial institutions were never big enough to do things on their own. Therefore there was no need felt by economists to include finance in macroeconomic models.
+
+But with technological advancement and innovation in financial products, they became a formidable force from the 1990s and ignoring finance had deleterious effects on the economic health for the world.
+
+Financial markets are unstable by default because your earnings are based on future that no one has seen and it is not a bad thing in itself. But given enough debt, it has the potential to wreck the whole economy like it happened in 2008. This has generated concerted effort on the regulators all over the world to reduce the amount of debt as they have abused the system with 30-to-1 debt to equity ratio before the crisis. It has become necessary due to our highly interconnected financial industry as crisis in one country quickly spreads to other countries and then to different sectors.
+
+In the recent years, there have been efforts to build macroeconomic model which includes the financial sector as well. “A macroeconomic model with a financial sector”, paper by Markus Brunnermeier and Yuliy Sannikov is prominent in this area. George Soros, a hedge fund billionaire, launched The Institute for New Economic Thinking for research into financial market behaviour, the macroeconomic impact of income inequality among other issues.
+
+## Macroeconomic changes after GFC
+1. Banks have become more resilient to shocks. BASEL III norms, introduced in 2010 increased tier 1 capital ratio from less than 4% to 10.5%. Global banks have reduced the extent of their trading activities as well to limit their exposure. However, in the present era of ultra-low interest rates, it has affected the overall profitability of the banks.
+2. Central Banks have ignored the regulation of financial institutions since the great moderation in 1980s and focused solely on price stability which gave unfettered access to financial institutions to grow without necessary oversight. But after GFC, preserving systemic stability become one of the cornerstone of central bank policies. Thus, they tightened grip over them.
+3. Global debt has risen by $87 trillion since the GFC12 due to increase in govt expenditures by Keynesian methods to revive the economies, provide the citizens a safety net in the face of different shocks like the crude oil supply chain disruption due to Arab spring in 2011 and most recently the corona virus outbreak in 2020.
+4. Interest rates have been hitting zero bounds due to increase in money supply for the revival of demand but it is making more and more difficult for monetary policy to have any impact.
+  5. This near zero nominal interest rate had made economies more vulnerable against another shock. Say, if nominal interest rates and inflation were higher, it would have given more room for central banks but now they are only left with changing the long term interest rates by purchasing long term government bonds.
+  6. Due to this reason, coronavirus could wreak havoc on global economy like that because problems were already present in the system.
+7. Since banks became conservative in their approach, corporate bond market soared as corporate lending by banks was almost flat. Developed economies have corporate debt in asset light sectors like healthcare, media on the other hand debt of developing economies is in real estate and other industrial sectors that are asset heavy so they have long gestation period before it start giving profits.
+  8. And the annual maturity of bonds will burden $1.6 trillion to $2.1 trillion annually in between 2018 and 2022.
+  9. But the global corporate default rate has increased13 to 2.1 % in 2016 from the long term average of 1.5% since 1981. If in case, interest rates soar due to govt expenditure, it can further increase defaults.
+
+
+## Conclusion
+Sub-prime mortgage crisis morphed into a full-blown global financial crisis only because the system already had defects as lending institutions operated without much oversight. It gave them an incentive to cheat the system because they knew no govt would let a behemoth worth hundreds of billions of dollars fail to avoid systemic risks (too big to fail) and will bail them out with taxpayers money if things go south, to save thousands of employees from losing their jobs. So fat bonuses if they get profits and no penalty if they lose. Therefore, they involved in such corrupt practices.
+
+Southern countries of European Union were worst affected as they were already highly leveraged. Printing money was not an option for them and getting credit was tougher in the midst of the crisis where every country was spending heavily on their own economy. Germany was able to fight the recession better as it had budget surplus for quite a few years thus they could afford a higher govt spending.
+
+As Winston Churchill said, “ Never let a good crisis go to waste.” It offered the countries chance to regulate and focus on areas that were neglected during ‘good times’. Now there is no free money for banks. Only systemically important entities are bailed out, that too comes with Govt equity and others have to manage on their own. Iceland was badly affected by the crisis so now it has diversified itself as a top cryptocurrency investment destination, in a bid to hedge the bets. China invested heavily in infrastructure by taking debt of around $580 billion and managed growth rate of 9% during the times where every country faced negative growth rates.
+
+Now countries like Iceland, Slovenia, Zimbabwe, Venezuela are moving towards cryptocurrency as they have been burnt very badly by the traditional currency. And who knows in the event of another financial crisis, these countries come out strongly as cryptocurrency is not controlled by a particular central bank so they will have less effect of the traditional currency meltdown. Or they could again hit badly due to their volatility and since cryptocurrency is decentralized and mined by programmers, Govt cannot do much if things go awry.
+
+The bottom line is that no one can predict the crisis as anything could go wrong. However, when you have adequate firewalls in place, it cannot do much damage. Coronavirus crashed the worldwide economy and so as to revive, easing of monetary policy and fiscal stimulus were given by almost every country. But as we know, stimulus could work only if they are not already overburdened by debt and have enough liquidity already in the system.
+
+More research will give more information or better economic frameworks and models which can be used to mitigate crisis but it cannot stop it from happening in the first place. Our best bet is to remain open and cooperative in sharing knowledge so that another bubble cannot wreak havoc on the whole global economy.
+
+---
+
+1. CDS or Credit Default Swap in which you insure your risk by paying a premium to other party. In case, your credit defaults, the payee will reimburse the payer.
+2. Problematic balance sheet of Indian corporates created problems in the balance sheet of Indian banks esp PSB.
