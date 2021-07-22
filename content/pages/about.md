@@ -4,13 +4,24 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 # General Info
-I am Aditya Sharma, economist, programmer etc. Write what I do why I do what are my tentative plans. SO that the user has some info about you.
+I am Aditya Sharma, economist, programmer etc. Write what I do why I do what are my tentative plans. So that the user has some info about you.
+Purpose of this about page is to give you as much data about me so that if we are to work together, you may know what you will be dealing with. 
 
 Tell about your newsletter where you will write about business/tech/economics news, how is it relevant for the user et al. 
 ![demo image](/media/image-2.jpg)
 
+#### what I am working on right now
+- eco
+- prog
+- side projects
+
+#### things to add in here
+- link to experience resume on linked in
+- link to ray dalio's assessment
+- Your small size professional photo as well here
+
 # About me
-This section is a bit long and is the culmination of years of introspection, 
+This section is a bit long and is the culmination of years of introspection, these traits I have. This is the reason 
 - I am passionate about building no frills products and utilities which although have less functionality, very less pretty but do their core job fabulously, are cost leaders, can be rapidly  deployed and adaptable to changing needs.
 - This approach runs into my life as well. I don't do optionals,  single-task at a time, cull tasks ruthlessly to focus on those that affect the bottom-line and transition quickly in roles to suit the requirement (perks of being exposed to different environments). 
 - I am anything but a perfectionist. Quick decision and implementation that gives 80% results with minimal effort is my default goto strategy. 
@@ -31,7 +42,7 @@ This section is a bit long and is the culmination of years of introspection,
 ## Interests
 The areas that I am currently concerned with, have been chosen after great deliberation and align with my disposition that well that even when I am on vacation, I make sure to have time for deep thinking over new issues related to business and technology or finding link between other subjects with former ones. 
 
-So, In a nutshell, what interests me is - any piece of information related to any subject which can be modified  either to make it useful for general public or can make money for me.
+So, In a nutshell, what interests me is - any piece of information related to any subject which has the potential to improve the current method by at least a factor of 10 be it in the terms of time saved or decrease in effort or a cost differential.
 
-Apart from this, I have been involved in debating and oration since my college days. I, along with my friend, even opened up a public speaking platform - Sakshatkar. This website is the extension of Sakshatkar's vision of sharing knowledge and best practices of the leaders with people from all walks of life.
+Apart from this, I have been involved in debating and oration since my college days. I, along with my friend, even opened up a public speaking platform - Sakshatkar. **This website is the extension of Sakshatkar's vision of sharing knowledge and best practices of the leaders with people from all walks of life.**
 > Although, I really love to be engaged in my own acts of reading, writing, coding but If there's an opportunity to interact with people or praise them for their work or travel, I take it with both hands. These activities ensure that I remain a human and don't transform into a cyborg of Skynet AI.
