@@ -3,7 +3,8 @@ title: "About"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---
-# General Info
+
+## General Info
 I am Aditya Sharma. I have a Master's degree in **Financial Economics**. Due to my interest in computers, I taught myself to program and continuing. I structured a CSE curriculum from MIT OCW to make myself a full fledged computer engineer. You can find about it more [here](https://aditya-as17.github.io/MIT-CSE/). Business, economics, technology, finance intrigues me. Therefore, in this website, I write long form essays, build tools, list resources on those subjects. 
 
 I write a weekly newsletter on substack, **[Deconstructed](https://aditya97.substack.com/)** in which I take anecdotes/incidents/news from business and technology world, explain the issue in brief and write lessons and real world applications of it.
@@ -17,7 +18,7 @@ you should have a folder to store all your images on gdrive sharmaaditya
 Fig.3 - me trying to look formal and cool
 </p> -->
 
-# About me
+## About me
 - I am passionate about building no frills products and utilities which although have less functionality, very less pretty but do their core job fabulously, are cost leaders, can be rapidly  deployed and adaptable to changing needs.
 - This approach runs into my life as well. I don't do optionals,  single-task at a time, cull tasks ruthlessly to focus on those that affect the bottom-line and transition quickly in roles to suit the requirement (perks of being exposed to different environments). 
 - I am anything but a perfectionist. Quick decision and implementation that gives 80% results with minimal effort is my default goto strategy. 
