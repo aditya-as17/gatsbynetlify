@@ -14,6 +14,12 @@ Tell about your newsletter where you will write about business/tech/economics ne
 - eco
 - prog
 - side projects
+- <p align = "center">
+<img src = "https://drive.google.com/file/d/185bFyP956P8qLCS82-p-mz6aaz30OFs7/view?usp=sharing">
+</p>
+<p align = "center">
+Fig.1 - Me trying to look formal
+</p>
 
 #### things to add in here
 - link to experience resume on linked in
