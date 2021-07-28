@@ -9,11 +9,20 @@ Purpose of this about page is to give you as much data about me so that if we ar
 
 Tell about your newsletter where you will write about business/tech/economics news, how is it relevant for the user et al. 
 ![demo image](/media/image-2.jpg)
+<!-- 
+you should havae a folder to store all your images on gdrive sharmaaditya
+-->
 
 #### what I am working on right now
 - eco
 - prog
 - side projects
+- <p align = "center">
+<img src = "https://drive.google.com/uc?export=view&id=185bFyP956P8qLCS82-p-mz6aaz30OFs7" style="width:100%">
+</p>
+<p align = "center">
+Fig.3 - me trying to look formal and cool
+</p>
 
 #### things to add in here
 - link to experience resume on linked in
