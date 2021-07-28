@@ -4,33 +4,20 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 # General Info
-I am Aditya Sharma, economist, programmer etc. Write what I do why I do what are my tentative plans. So that the user has some info about you.
-Purpose of this about page is to give you as much data about me so that if we are to work together, you may know what you will be dealing with. 
+I am Aditya Sharma. I have a Master's degree in **Financial Economics**. Due to my interest in computers, I taught myself to program and continuing. I structured a CSE curriculum from MIT OCW to make myself a full fledged computer engineer. You can find about it more [here](https://aditya-as17.github.io/MIT-CSE/). Business, economics, technology, finance intrigues me. Therefore, in this website, I write long form essays, build tools, list resources on those subjects. 
 
-Tell about your newsletter where you will write about business/tech/economics news, how is it relevant for the user et al. 
-![demo image](/media/image-2.jpg)
+I write a weekly newsletter on substack, **[Deconstructed](https://aditya97.substack.com/)** in which I take anecdotes/incidents/news from business and technology world, explain the issue in brief and write lessons and real world applications of it.
 <!-- 
-you should havae a folder to store all your images on gdrive sharmaaditya
--->
+you should have a folder to store all your images on gdrive sharmaaditya
 
-#### what I am working on right now
-- eco
-- prog
-- side projects
-- <p align = "center">
+<p align = "center">
 <img src = "https://drive.google.com/uc?export=view&id=185bFyP956P8qLCS82-p-mz6aaz30OFs7" style="width:100%">
 </p>
 <p align = "center">
 Fig.3 - me trying to look formal and cool
-</p>
-
-#### things to add in here
-- link to experience resume on linked in
-- link to ray dalio's assessment
-- Your small size professional photo as well here
+</p> -->
 
 # About me
-This section is a bit long and is the culmination of years of introspection, these traits I have. This is the reason 
 - I am passionate about building no frills products and utilities which although have less functionality, very less pretty but do their core job fabulously, are cost leaders, can be rapidly  deployed and adaptable to changing needs.
 - This approach runs into my life as well. I don't do optionals,  single-task at a time, cull tasks ruthlessly to focus on those that affect the bottom-line and transition quickly in roles to suit the requirement (perks of being exposed to different environments). 
 - I am anything but a perfectionist. Quick decision and implementation that gives 80% results with minimal effort is my default goto strategy. 
@@ -51,7 +38,7 @@ This section is a bit long and is the culmination of years of introspection, the
 ## Interests
 The areas that I am currently concerned with, have been chosen after great deliberation and align with my disposition that well that even when I am on vacation, I make sure to have time for deep thinking over new issues related to business and technology or finding link between other subjects with former ones. 
 
-So, In a nutshell, what interests me is - any piece of information related to any subject which has the potential to improve the current method by at least a factor of 10 be it in the terms of time saved or decrease in effort or a cost differential.
+So, In a nutshell, what interests me is - any piece of information related to any subject which has the potential to improve the current method by at least a factor of 10 be it in the terms of time saved or decrease in effort or a cost differential or the fun factor increment. 
 
-Apart from this, I have been involved in debating and oration since my college days. I, along with my friend, even opened up a public speaking platform - Sakshatkar. **This website is the extension of Sakshatkar's vision of sharing knowledge and best practices of the leaders with people from all walks of life.**
+Apart from this, I have been involved in debating, public speaking and oration since my college days. I, along with my friend, even opened up a public speaking platform - Sakshatkar. **This website is the extension of Sakshatkar's vision of sharing knowledge and best practices of the leaders with people from all walks of life.**
 > Although, I really love to be engaged in my own acts of reading, writing, coding but If there's an opportunity to interact with people or praise them for their work or travel, I take it with both hands. These activities ensure that I remain a human and don't transform into a cyborg of Skynet AI.
