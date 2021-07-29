@@ -41,18 +41,18 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: 'Aditya_as97',
-      github: '',
+      github: 'aditya-as17',
       rss: '',
       vkontakte: '',
       linkedin: 'aditya97as',
-      instagram: '',
+      instagram: 'aditya_as17',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: 'aditya-as17',
     }
   }
 };
