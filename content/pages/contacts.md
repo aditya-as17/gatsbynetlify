@@ -14,7 +14,7 @@ Here's a list of all my social media profiles with a brief description of what i
 4. [Instagram](https://www.instagram.com/aditya_as17/) - My photo library
 5. [Medium](https://medium.com/@aditya-as17) - Here I write tools, frameworks and systems which makes easy to manage money, time and productivity for those who implement.
 6. [Goodreads](https://www.goodreads.com/user/show/35675590-aditya-sharma) - Summaries, book reviews and an account of what I am currently reading and what I will read.
-7. [Github](https://github.com/aditya-as17) - Since I am a self-taught programmer so here I share progress and updates of my programming track. Worth visiting if you want to improve upon your foundations or want to contribute for [CSE self education from MIT OCW](https://aditya-as17.github.io/MIT-CSE/) for others.
+7. [Github](https://github.com/aditya-as17) - Since I am a self-taught programmer so here I share progress and updates of my programming track. Worth visiting if you want to improve upon your computer foundations or want to contribute for [CSE from MIT OCW](https://aditya-as17.github.io/MIT-CSE/) curriculum for self education as a computer engineer.
 
 ---
 
