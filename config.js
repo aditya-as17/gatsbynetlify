@@ -52,7 +52,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: 'aditya-as17',
+      medium: '@aditya-as17',
     }
   }
 };
