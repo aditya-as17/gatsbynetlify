@@ -43,3 +43,5 @@ So, In a nutshell, what interests me is - any piece of information related to an
 
 Apart from this, I have been involved in debating, public speaking and oration since my college days. I, along with my friend, even opened up a public speaking platform - Sakshatkar. **This website is the extension of Sakshatkar's vision of sharing knowledge and best practices of the leaders with people from all walks of life.**
 > Although, I really love to be engaged in my own acts of reading, writing, coding but If there's an opportunity to interact with people or praise them for their work or travel, I take it with both hands. These activities ensure that I remain a human and don't transform into a cyborg of Skynet AI.
+
+---
