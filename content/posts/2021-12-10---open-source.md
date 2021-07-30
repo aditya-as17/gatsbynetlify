@@ -4,12 +4,10 @@ date: "2021-12-10"
 template: "post"
 draft: false
 slug: "non-engineer-open-source-advocacy"
-category: "Design Inspiration"
+category: "Technology"
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
+  - "open-source"
+  - "business"
 description: "Software industry runs on open source. In fact OS is the reason it has flourished so well. So, can it be implemented in other industries as well or not. This essay attempts to make a case for its adoption in other sectors."
 socialImage: "/media/image-0.jpg"
 ---
