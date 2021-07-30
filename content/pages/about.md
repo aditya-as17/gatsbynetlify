@@ -5,7 +5,9 @@ socialImage: "/media/image-2.jpg"
 ---
 
 ## General Info
-I am Aditya Sharma. I have a Master's degree in **Financial Economics**. Due to my interest in computers, I taught myself to program and continuing. I structured a CSE curriculum from MIT OCW to make myself a full fledged computer engineer. You can find about it more [here](https://aditya-as17.github.io/MIT-CSE/). Business, economics, technology, finance intrigues me. Therefore, in this website, I write long form essays, build tools, list resources on those subjects. 
+I am Aditya Sharma. I have a Master's degree in **Financial Economics**. Due to my interest in computers, I taught myself to program and continuing. I structured a CSE curriculum from MIT OCW to make myself a full fledged computer engineer. You can find about it more [here](https://aditya-as17.github.io/MIT-CSE/). 
+
+Business, economics, technology, finance intrigues me. Therefore, in this website, I write long form essays, build tools, list resources on those subjects. 
 
 I write a weekly newsletter on substack, **[Deconstructed](https://aditya97.substack.com/)** in which I take anecdotes/incidents/news from business and technology world, explain the issue in brief and write lessons and real world applications of it.
 <!-- 
