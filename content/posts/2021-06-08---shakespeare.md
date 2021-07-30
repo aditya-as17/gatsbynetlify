@@ -4,11 +4,9 @@ date: "2021-06-18"
 template: "post"
 draft: false
 slug: "shakespeare-meets-decision-making"
-category: "Typography"
+category: "Leadership"
 tags:
-  - "Open source"
-  - "Gatsby"
-  - "Typography"
+  - "Decision making"
 description: "How to choose from either 'this' or 'that'. People always think they have binary choice. Do they have a better option. Let's find out in this essay."
 socialImage: "/media/gutenberg.jpg"
 ---
