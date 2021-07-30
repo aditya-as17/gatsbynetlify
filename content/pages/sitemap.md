@@ -8,10 +8,10 @@ We live in an era where bite sized information, in the form of instagram stories
 This website has been created to preserve and promote long form reading, writing, creating. It will also serve as a base to me and a repository of my ideas and experimentation. This page is a map to maximize your benefit from this website.
 
 ## General Layout
-1. **About** - General and specific information about me.
-2. **Essays** - It is the default home page. Long form essays organized into _categories and tags_ with a brief description about it.
-3. **Resources** - It contains links to the tools or projects I've created on **Medium** or come across anything relevant to improve worklife, office productivity or management, with a brief description about it.
-4. **Contact** - Information about my social media handles with an information about what it is concerned with.
+1. **[About](https://www.sharmaaditya.in/pages/about)** - General and specific information about me.
+2. **[Essays](https://www.sharmaaditya.in/)** - It is the default home page. Long form essays organized into _categories and tags_ with a brief description about it.
+3. **[Resources](https://www.sharmaaditya.in/pages/rsrc)** - It contains links to the tools or projects I've created on **Medium** or come across anything relevant to improve worklife, office productivity or management, with a brief description about it.
+4. **[Contact](https://www.sharmaaditya.in/pages/contacts)** - Information about my social media handles with an information about what it is concerned with.
 5. **Buttons that take you to my prominent social media profiles** - Linked in, Github, Twitter, Instagram, Email and Medium
 
 ## Tags
