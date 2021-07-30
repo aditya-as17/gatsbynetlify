@@ -4,11 +4,10 @@ date: "2021-02-03"
 template: "post"
 draft: false
 slug: "fiscal-deficit-handle-with-care"
-category: "Typography"
+category: "Public Policy"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
+  - "Economy"
+  - "Finance"
 description: "Govt were told not to worry about fiscal deficits during COVID. Are they right or the restraint on spending by Govt is justified. This essay examines the issue of fiscal deficit."
 socialImage: "/media/US-deficit.jpg"
 ---
