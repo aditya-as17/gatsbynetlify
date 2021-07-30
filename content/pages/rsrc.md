@@ -8,7 +8,7 @@ On this page, you will find links to the tools, frameworks I created on **Medium
 
 Tools/Frameworks
 ---
-1. [Personal Finance Management System](https://medium.com/@aditya-as17/personal-finance-management-system-362f262048b2) - 
+1. [Personal Finance Management System]() - 
 2. 
 
 
