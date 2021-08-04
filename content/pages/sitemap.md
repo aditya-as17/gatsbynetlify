@@ -1,5 +1,5 @@
 ---
-title: "How to use this site"
+title: "Start Here"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---
