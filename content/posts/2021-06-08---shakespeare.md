@@ -7,7 +7,7 @@ slug: "shakespeare-meets-decision-making"
 category: "Leadership"
 tags:
   - "Decision making"
-description: "How to choose from either 'this' or 'that'. People always think they have binary choice. Do they have a better option. Let's find out in this essay."
+description: "How to choose from either 'this' or 'that'. People always think they have binary choice. Do they have a better option. Let's find out in this essay."[COMING SOON]
 socialImage: "/media/gutenberg.jpg"
 ---
 
