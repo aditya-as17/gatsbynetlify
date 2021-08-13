@@ -8,7 +8,7 @@ category: "Technology"
 tags:
   - "open-source"
   - "business"
-description: "Software industry runs on open source. In fact OS is the reason it has flourished so well. So, can it be implemented in other industries as well or not. This essay attempts to make a case for its adoption in other sectors."
+description: "Software industry runs on open source. In fact OS is the reason it has flourished so well. So, can it be implemented in other industries as well or not. This essay attempts to make a case for its adoption in other sectors."[COMING SOON]
 socialImage: "/media/image-0.jpg"
 ---
 
