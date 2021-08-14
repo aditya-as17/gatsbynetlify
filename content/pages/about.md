@@ -9,7 +9,7 @@ I am Aditya Sharma. I have a Master's degree in **Financial Economics**. Due to 
 
 Business, economics, technology, finance intrigues me. Therefore, in this website, I write long form essays, build tools, list resources on those subjects. 
 
-I write a weekly newsletter on substack, **[Deconstructed](https://aditya97.substack.com/)** in which I take anecdotes/incidents/news from business and technology world, explain the issue in brief and write lessons and real world applications of it.
+I write a weekly newsletter on substack, **[Deconstructed](https://decons.substack.com/)** in which I take anecdotes/incidents/news from business and technology world, explain the issue in brief and write lessons and real world applications of it.
 <!-- 
 you should have a folder to store all your images on gdrive sharmaaditya
 
