@@ -1,6 +1,6 @@
 ---
 title: "To be or not to be: Shakespeare meets decision making"
-date: "2021-06-18"
+date: "2020-06-18"
 template: "post"
 draft: false
 slug: "shakespeare-meets-decision-making"
