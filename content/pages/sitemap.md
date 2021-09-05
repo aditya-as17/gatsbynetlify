@@ -7,6 +7,8 @@ We live in an era where bite sized information, in the form of instagram stories
 
 This website has been created to preserve and promote long form reading, writing, creating. It will also serve as a base to me and a repository of my ideas and experimentation. This page is a map to maximize your benefit from this website.
 
+> Follow my newsletter deconstructing value investing principles and lessons to implement - [Deconstructed](https://decons.substack.com/)
+
 ## General Layout
 1. **[About](https://www.sharmaaditya.in/pages/about)** - General and specific information about me.
 2. **[Essays](https://www.sharmaaditya.in/)** - It is the default home page. Long form essays organized into _categories and tags_ with a brief description about it.
