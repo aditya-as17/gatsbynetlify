@@ -9,6 +9,8 @@ I am Aditya Sharma. I have a Master's degree in **Financial Economics**. Due to 
 
 Business, economics, technology, finance intrigues me. Therefore, in this website, I write long form essays, build tools, list resources on those subjects. 
 
+> I tweet about investing, growth and learning. You can check my tweets here,  [@Aditya_97](https://twitter.com/Aditya_as97). If that looks valuable and relevant to you, You can follow me on twitter.
+
 I write a weekly newsletter on substack, **[Deconstructed](https://decons.substack.com/)** in which I take anecdotes/incidents/news from business and technology world, explain the issue in brief and write investment lessons and applications of it.
 <!-- 
 you should have a folder to store all your images on gdrive sharmaaditya
