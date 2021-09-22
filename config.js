@@ -17,11 +17,11 @@ module.exports = {
     },
     {
       label: 'About',
-      path: '/pages/about'
+      path: '/'
     },
     {
       label: 'Essays',
-      path: '/'
+      path: '/pages/about'
     },
     {
       label: 'Resources',
