@@ -1,6 +1,6 @@
 ---
 title: "A non-engineer's advocacy for open source"
-date: "2020-12-10"
+date: "2019-12-10"
 template: "post"
 draft: false
 slug: "non-engineer-open-source-advocacy"
