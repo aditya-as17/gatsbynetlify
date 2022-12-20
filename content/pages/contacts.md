@@ -4,7 +4,19 @@ template: "page"
 socialImage: "/media/image-4.jpg" 
 ---
 <!-- list all your profiles and about newsletter in the contact me page. No need to include images and forms. Then target next github readme.md profile. -->
-You can post your short message or question by tweeting [@Aditya_as97](https://twitter.com/Aditya_as97) or you can contact me via email (**sharmaaditya1997@gmail.com**). I reply very quickly on these two platforms.
+
+Best way to contact me is email - **sharmaaditya1997[at]gmail[dot]com**. So sign up for the newsletter.
+
+I do not care for random social media followers. So none is listed.
+
+
+
+
+
+
+
+
+
 
 <!-- Here's a list of all my social media profiles with a brief description of what it holds.
 
