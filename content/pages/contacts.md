@@ -5,7 +5,7 @@ socialImage: "/media/image-4.jpg"
 ---
 <!-- list all your profiles and about newsletter in the contact me page. No need to include images and forms. Then target next github readme.md profile. -->
 
-Best way to contact me is email - **sharmaaditya1997[at]gmail[dot]com**. So sign up for the newsletter.
+Best way to contact me is email - **sharmaaditya1997[at]gmail[dot]com**.
 
 I do not care for random social media followers. So none is listed.
 
