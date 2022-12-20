@@ -37,7 +37,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Repository for my ideas and initiatives about business, investing and programming.',
     contacts: {
-      email: 'sharmaaditya1997@gmail.com',
+      email: '',
       facebook: '',
       telegram: '',
       twitter: '',
