@@ -1,4 +1,14 @@
-What Peter Thiel taught about building companies?
+---
+title: What Peter Thiel taught about building companies?
+date: "2023-01-06"
+template: "post"
+draft: false
+slug: "what-peter-thiel-tells-about-building-companies"
+category: "Business"
+tags:
+  - "startups"
+description: ""
+socialImage: "/media/image-3.jpg"
 ---
 
 # Seeing the Future
