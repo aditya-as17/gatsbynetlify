@@ -16,8 +16,8 @@ Tools/Frameworks
 -->
 Essays/Articles
 ---
-1. [Charlie Munger's collected piece of wisdom](https://fs.blog/intellectual-giants/charlie-munger/) - In this Farnam street blog, Charlie Munger's articles, speeches, suggested readings etc have been catalogued. This will serve as a quick reference to learn from internet's favorite thinker.
-2. 
+1. [Charlie Munger's collected piece of wisdom](https://fs.blog/intellectual-giants/charlie-munger/) - In this Farnam street blog, Charlie Munger's articles, speeches, suggested readings etc have been catalogued. This will serve as a quick reference to learn from the world's first multi disciplinary thinker-investor
+2. [Inside Paypal : Vincent Chan](http://www.paulgraham.com/paypal.html) - Was the 'Paypal Mafia' a set of gifted individuals or the company culture shaped them to be? Perhaps both this essay gives an insight into the working of Paypal.
 
 
 ----
