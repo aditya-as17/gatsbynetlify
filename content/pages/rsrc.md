@@ -18,6 +18,7 @@ Essays/Articles
 ---
 1. [Charlie Munger's collected piece of wisdom](https://fs.blog/intellectual-giants/charlie-munger/) - In this Farnam street blog, Charlie Munger's articles, speeches, suggested readings etc have been catalogued. This will serve as a quick reference to learn from the world's first multi disciplinary thinker-investor
 2. [Inside Paypal : Vincent Chan](http://www.paulgraham.com/paypal.html) - Was the 'Paypal Mafia' a set of gifted individuals or the company culture shaped them to be? Perhaps both this essay gives an insight into the working of Paypal.
+3. [Amazon's 14 leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) - Though this has been the guiding light for Amazon since the codification of these 14 principles, but are universally applicable to almost any company that one is trying to build.
 
 
 ----
