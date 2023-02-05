@@ -41,10 +41,10 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: '',
-      github: '',
+      github: 'aditya-as17',
       rss: '',
       vkontakte: '',
-      linkedin: '',
+      linkedin: 'aditya97as',
       instagram: '',
       line: '',
       gitlab: '',
@@ -52,7 +52,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: '@aditya-as17',
     }
   }
 };
