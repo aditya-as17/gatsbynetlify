@@ -11,6 +11,7 @@ socialImage: ""
 3. [Amazon's 14 leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) - Though this has been the guiding light for Amazon since the codification of these 14 principles, but are universally applicable to almost any company that one is trying to build.
 4. [Tools for making better decisions](https://untools.co/) - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 5. [Stratechery](https://stratechery.com/) - Ben Thompson will teach you the administrative, economic, political analysis of tech. Very important if you have sights on a public office.
+6. [Tactics, Principles, and Frames](https://jakobgreenfeld.com/tactics-principles-frames?utm_source=substack&utm_medium=email) - Succinct principles for managing by Jakob Greenfeld.
 
 # Writing 
 
