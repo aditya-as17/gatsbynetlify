@@ -8,7 +8,7 @@ socialImage: "/media/image-2.jpg"
 I am Aditya Sharma. I have a Master's degree in **Financial Economics**. Due to my interest in computers, I taught myself to program and continuing. Business, economics, technology, finance intrigues me. And I want to start writing as notes to self to the topics I learn, and books I read.
 <!-- I structured a CSE curriculum from MIT OCW to make myself a full fledged computer engineer. You can find about it more [here](https://aditya-as17.github.io/MIT-CSE/).--> 
 <!-- 
-> I tweet about investing, growth and learning. You can check my tweets here,  [@Aditya_97](https://twitter.com/Aditya_as97). If that looks valuable and relevant to you, You can follow me on twitter.
+> I tweet about investing, growth and learning. You can check my tweets here,  [@Aditya_97](https://twitter.com/Aditya_as97). If that looks valuable and relevant to you, You can follow me on twitter. Yeah yeah so very much need to be updated.
 
 I write a weekly newsletter on substack, **[Deconstructed](https://decons.substack.com/)** in which I take anecdotes/incidents/news from business and technology world, explain the issue in brief and write investment lessons and applications of it.
 
